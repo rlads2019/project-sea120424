@@ -12,7 +12,7 @@ G05 羅密歐與傅立葉
 │	│   ├── beginner
 │	│   ├── native 
 │	│   └── dictionary
-│   ├── img/
+│       ├── img/
 │	├── preprocessing.py
 │	├── vsm.py
 │	├── vsm_v2.py
