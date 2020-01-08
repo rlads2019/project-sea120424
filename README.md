@@ -5,7 +5,7 @@ G05 羅密歐與傅立葉
 
 ### 繳交項目
 ```
-├── src/
+├──── src/
 │	├── data/
 │	│   ├── professional
 │	│   ├── medium
