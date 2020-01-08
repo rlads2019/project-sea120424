@@ -5,13 +5,14 @@ G05 羅密歐與傅立葉
 
 ### 繳交項目
 ```
-├── src
-│	├── data
+├── src/
+│	├── data/
 │	│   ├── professional
 │	│   ├── medium
 │	│   ├── beginner
 │	│   ├── native 
-│	│   └── dictionary  
+│	│   └── dictionary
+│   ├── img/
 │	├── preprocessing.py
 │	├── vsm.py
 │	├── vsm_v2.py
