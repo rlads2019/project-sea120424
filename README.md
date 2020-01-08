@@ -5,7 +5,7 @@ G05 羅密歐與傅立葉
 
 ### 繳交項目
 ```
-├──── src/
+├───── src/
 │	├── data/
 │	│   ├── professional
 │	│   ├── medium
@@ -18,7 +18,7 @@ G05 羅密歐與傅立葉
 │	├── vsm_v2.py
 │	├── README.md
 │	└── Other Statics Rmd
-├── G05_poster.pdf
-├── G05_report.pdf
-└── README.md
+├───── G05_poster.pdf
+├───── G05_report.pdf
+└───── README.md
 ```
